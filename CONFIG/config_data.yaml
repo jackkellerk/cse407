@@ -8,7 +8,6 @@ KCN:
 - KCNA3:
   - 4BGC
 - KCNA8:
-  - 3BJ4
   - 3HFC
   - 3HFE
   - 4UMO
@@ -16,8 +15,6 @@ KCN:
   - 6UZZ
   - 6VOO
   - 6VO1
-- KCNA1:
-  - 1EXB
 - KCNA2:
   - 1DSX
   - 1QDV
@@ -54,8 +51,6 @@ SCN:
 - SCN1A:
   - 7DTD
 - SCN2A:
-  - 1BYY
-  - 2KAV
   - 2KXW
   - 2M5E
   - 4JPZ
