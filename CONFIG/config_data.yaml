@@ -1,24 +1,14 @@
-KCN:
-- KCNA2B:
-  - 1ZSX
+KCN: 
+- KCNA3:
   - 7EJ1
   - 7EJ2
   - 7WF3
-  - 7WF4  
-- KCNA3:
-  - 4BGC
+  - 7WF4
 - KCNA8:
-  - 3HFC
-  - 3HFE
-  - 4UMO
-  - 6MIE
   - 6UZZ
   - 6VOO
   - 6VO1
 - KCNA2:
-  - 1DSX
-  - 1QDV
-  - 1QDW
   - 2A79
   - 2R9R
   - 3LNM
@@ -30,12 +20,11 @@ KCN:
   - 6EBK
   - 6EBL
   - 6EBM
-- KCNA4:
-  - 1KN7
+- KCNA1: 
+  - 1EXB ???
 
 SCN:
 - SCN5A:
-  - 4OVN
   - 6LQA
   - 6UZ0
   - 6UZ3
@@ -43,24 +32,27 @@ SCN:
   - 7FBS
   - 7K18
 - SCN4A:
-  - 6MC9
-  - 6MBA
   - 6AGF
 - SCNN1A:
   - 6BQN
 - SCN1A:
   - 7DTD
 - SCN2A:
-  - 2KXW
-  - 2M5E
-  - 4JPZ
-  - 4RLY
-  - 6BUT
+  - 4JPZ ???
   - 6J8E
 - SCN9A:
   - 5EK0
   - 6J8G
   - 6J8H
   - 6J8I
+  - 6J8J
   - 6N4Q
   - 6N4R
+  - 6NT3
+  - 6NT4
+  - 6VXO
+  - 6W60 ???
+  - 7K48
+- SCN6A:
+  - 7TJ8 ???
+  - 7TJ9 ???
