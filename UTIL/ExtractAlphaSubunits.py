@@ -17,7 +17,8 @@ for channel in pdb_ids.keys():
             chain_ids = []
             for line in lines:
                 gene_name = list(gene.keys())[0]
-                if 'DBREF' in line and gene_name in line:
+                if 'DBREF' in line and (gene_name in line or 'KCNQ1_' in line or 
+                    ('2R9R' in line and not 'KCAB2_RAT' in line)):
                     chain_ids.append(line.split()[2])
             
             # If unable to extract any chain ids for the structure, print a warning
