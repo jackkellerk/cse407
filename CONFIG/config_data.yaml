@@ -6,8 +6,8 @@ KCN:
   - 7WF4
 - KCNA8:
   - 6UZZ
-  - 6VOO
-  - 6VO1
+  - 6V00
+  - 6V01
 - KCNA2:
   - 2A79
   - 2R9R
@@ -33,8 +33,6 @@ SCN:
   - 7K18
 - SCN4A:
   - 6AGF
-- SCNN1A:
-  - 6BQN
 - SCN1A:
   - 7DTD
 - SCN2A:
@@ -51,6 +49,6 @@ SCN:
   - 6NT4
   - 6VXO
   - 7K48
-- SCN6A:
+- SCN7A:
   - 7TJ8
   - 7TJ9
