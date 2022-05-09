@@ -9,19 +9,9 @@ KCN:
       - 6V00
       - 6V01
   - KCNA2:
-      - 5WIE
-      - 2A79
-      - 2R9R
-      - 3LNM
-      - 3LUT
-      - 4JTA
-      - 4JTC
-      - 4JTD
       - 6EBK
       - 6EBL
-      - 6EBM
-  - KCNA1:
-      - 1EXB
+      - 6EBM        
 
 SCN:
   - SCN5A:
