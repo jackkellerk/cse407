@@ -1,54 +1,53 @@
-KCN: 
-- KCNA3:
-  - 7EJ1
-  - 7EJ2
-  - 7WF3
-  - 7WF4
-- KCNA8:
-  - 6UZZ
-  - 6V00
-  - 6V01
-- KCNA2:
-  - 2A79
-  - 2R9R
-  - 3LNM
-  - 3LUT
-  - 4JTA
-  - 4JTC
-  - 4JTD
-  - 5WIE
-  - 6EBK
-  - 6EBL
-  - 6EBM
-- KCNA1: 
-  - 1EXB
+KCN:
+  - KCNA3:
+      - 7EJ1
+      - 7EJ2
+      - 7WF3
+      - 7WF4
+  - KCNA8:
+      - 6UZZ
+      - 6V00
+      - 6V01
+  - KCNA2:
+      - 5WIE
+      - 2A79
+      - 2R9R
+      - 3LNM
+      - 3LUT
+      - 4JTA
+      - 4JTC
+      - 4JTD
+      - 6EBK
+      - 6EBL
+      - 6EBM
+  - KCNA1:
+      - 1EXB
 
 SCN:
-- SCN5A:
-  - 6LQA
-  - 6UZ0
-  - 6UZ3
-  - 7DTC
-  - 7FBS
-  - 7K18
-- SCN4A:
-  - 6AGF
-- SCN1A:
-  - 7DTD
-- SCN2A:
-  - 4JPZ
-  - 6J8E
-- SCN9A:
-  - 6J8G
-  - 6J8H
-  - 6J8I
-  - 6J8J
-  - 6N4Q
-  - 6N4R
-  - 6NT3
-  - 6NT4
-  - 6VXO
-  - 7K48
-- SCN7A:
-  - 7TJ8
-  - 7TJ9
+  - SCN5A:
+      - 6LQA
+      - 6UZ0
+      - 6UZ3
+      - 7DTC
+      - 7FBS
+      - 7K18
+  - SCN4A:
+      - 6AGF
+  - SCN1A:
+      - 7DTD
+  - SCN2A:
+      - 6J8E
+  - SCN9A:
+      - 6J8G
+      - 6J8H
+      - 6J8I
+      - 6J8J
+      - 6N4Q
+      - 6N4R
+      - 6NT3
+      - 6NT4
+      - 6VXO
+      - 7K48
+  - SCN7A:
+      - 7TJ8
+      - 7TJ9
