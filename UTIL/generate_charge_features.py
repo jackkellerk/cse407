@@ -91,7 +91,7 @@ if __name__ == "__main__":
                         dy = locs_charges[0][i][1] - point[1]
                         dz = locs_charges[0][i][2] - point[2]
                         r = np.sqrt(dx**2 + dy**2 + dz**2)
-                        potential += locs_charges[1][i]/(r**2)
+                        potential += locs_charges[1][i]/r
                     line_potential.append(potential)
 
                 line_potential = np.array(line_potential)
