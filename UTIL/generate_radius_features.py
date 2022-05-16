@@ -63,6 +63,8 @@ def open_carbon_atoms(file_name):
 
 if __name__ == "__main__":
     df = pd.DataFrame(columns=["Structure", "Channel", "Average_radius", "Max_radius", "Min_radius"])
+    df_radii = pd.DataFrame(columns=['Structure', 'Channel', 'radii'])
+
 
     with open('../CONFIG/config_alignment.yaml', 'r') as f:
         pdb_ids = yaml.load(f, Loader=yaml.FullLoader)
@@ -136,6 +138,10 @@ if __name__ == "__main__":
 
                 # Append to df
                 df.loc[len(df.index)] = [structure, channel, avg_radius, max_radius, min_radius] 
+                radii = np.array(radii)
+                df_radii.loc[len(df_radii)] = [structure, channel, radii]
+
     
     # Save df as csv
     df.to_csv("./radius.csv", index=False)
+    df_radii.to_csv('./radii.csv', index=False)
